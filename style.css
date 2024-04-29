@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .msg-container {
+        width: 80%;
+      margin: auto;
+  }
+  
+  .msg-box {
+    
+  }
+  
+  #card {
+    display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+  }
+  
+  .card {
+        margin: 15px
+  }
